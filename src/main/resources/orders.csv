@@ -1,4 +1,4 @@
-customer_id,item_id,item_name,item_price,purchase_date
+customer_id,item_id,item_price,item_name,purchase_date
 1,1,10000000,asus notebook,2020/07/16 8:00:00
 1,2,12000000,macbook pro 13 inch,2020/07/16 9:00:00
 2,2,12000000,macbook pro 13 inch,2020/07/16 10:00:00
